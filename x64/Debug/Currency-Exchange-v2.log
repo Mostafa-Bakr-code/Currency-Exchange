@@ -1,0 +1,38 @@
+﻿  Currency-Exchange-v2.cpp
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsString.h(41,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsString.h(64,26): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsString.h(292,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsString.h(359,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsString.h(389,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsString.h(429,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsInputValidate.h(116,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsInputValidate.h(120,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsCurrency.h(30,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsUpdateScreen.h(49,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsCurrCalculatorScreen.h(21,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency-Exchange-v2.cpp')
+  
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsCurrency.h(237): warning C4715: 'clsCurrency::save': not all control paths return a value
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsString.h(367): warning C4715: 'clsString::trimRight': not all control paths return a value
+C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\clsString.h(349): warning C4715: 'clsString::trimLeft': not all control paths return a value
+  Currency-Exchange-v2.vcxproj -> C:\Users\Lenovo\Desktop\Projects\Currency-Exchange-v2\x64\Debug\Currency-Exchange-v2.exe
